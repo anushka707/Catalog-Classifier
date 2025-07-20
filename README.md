@@ -26,8 +26,8 @@ Given a product title (e.g., "Cotton Saree with Blouse Piece"), predict its prod
 
 | Model                      | Accuracy |
 |---------------------------|----------|
-| TF-IDF + Logistic Regression | ~85%     |
-| LSTM (TensorFlow)         | ~88–90%  |
+| TF-IDF + Logistic Regression | ~96%     |
+| LSTM (TensorFlow)         | ~97%  |
 
 Includes confusion matrix and sample predictions for comparison.
 
@@ -38,17 +38,10 @@ Includes confusion matrix and sample predictions for comparison.
 - Pandas, NumPy, NLTK
 - Google Colab
 
-## Sample Predictions
-
-| Product Title                         | Predicted Category |
-|--------------------------------------|---------------------|
-| Cotton Saree with Blouse             | Fashion             |
-| LED Strip Light for Home Decoration  | Electronics          |
-| Stainless Steel Water Bottle         | Home                |
 
 ## How to Run
 
-1. Open the Colab Notebook [link here]
+1. Open the Colab Notebook [https://drive.google.com/drive/folders/1Za9RIYw36AIs-ZTVfKa1fAkhgSm9RXQ5?usp=sharing]
 2. Run all cells in sequence
 3. Upload dataset or use provided one
 4. Train and evaluate both models
