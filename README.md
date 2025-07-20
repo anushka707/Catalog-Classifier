@@ -40,7 +40,7 @@ Includes confusion matrix and sample predictions for comparison.
 
 ## Results
 <img width="797" height="701" alt="image" src="https://github.com/user-attachments/assets/7d5aed0d-453f-47a5-b18a-b88452059c99" />
-<img width="1101" height="790" alt="image" src="https://github.com/user-attachments/assets/6cb6616e-e453-4263-add3-2545e5443c3c" />
+<img width="797" height="701" alt="image" src="https://github.com/user-attachments/assets/6cb6616e-e453-4263-add3-2545e5443c3c" />
 
 
 
